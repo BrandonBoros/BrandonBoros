@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @BrandonBoros
-- 👀 I’m interested in: no
-- 🌱 I’m currently learning: Comp Sci
-- 💞️ I’m looking to collaborate on: cheese
-- 📫 How to reach me: no
+- 👀 I’m interested in: learning new skills
+- 🌱 I’m currently learning: Comp Science
+- 💞️ I’m looking to collaborate on: anything that peaks my interest
+- 📫 How to reach me: brandon.boros1@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: cheese
 
 <!---
 BrandonBoros/BrandonBoros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
